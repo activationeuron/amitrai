@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/amitrai/static/css/main.2cce8147.chunk.css",
-    "main.js": "/amitrai/static/js/main.99da34b0.chunk.js",
-    "main.js.map": "/amitrai/static/js/main.99da34b0.chunk.js.map",
-    "runtime~main.js": "/amitrai/static/js/runtime~main.6aa4b398.js",
-    "runtime~main.js.map": "/amitrai/static/js/runtime~main.6aa4b398.js.map",
-    "static/js/2.34b4fde6.chunk.js": "/amitrai/static/js/2.34b4fde6.chunk.js",
-    "static/js/2.34b4fde6.chunk.js.map": "/amitrai/static/js/2.34b4fde6.chunk.js.map",
+    "main.css": "/amitrai/static/css/main.34de6062.chunk.css",
+    "main.js": "/amitrai/static/js/main.61249132.chunk.js",
+    "main.js.map": "/amitrai/static/js/main.61249132.chunk.js.map",
+    "runtime~main.js": "/amitrai/static/js/runtime~main.a9a2a8e5.js",
+    "runtime~main.js.map": "/amitrai/static/js/runtime~main.a9a2a8e5.js.map",
+    "static/js/2.f7844318.chunk.js": "/amitrai/static/js/2.f7844318.chunk.js",
+    "static/js/2.f7844318.chunk.js.map": "/amitrai/static/js/2.f7844318.chunk.js.map",
+    "static/css/3.339887e6.chunk.css": "/amitrai/static/css/3.339887e6.chunk.css",
+    "static/js/3.36e2f6d9.chunk.js": "/amitrai/static/js/3.36e2f6d9.chunk.js",
+    "static/js/3.36e2f6d9.chunk.js.map": "/amitrai/static/js/3.36e2f6d9.chunk.js.map",
     "index.html": "/amitrai/index.html",
-    "precache-manifest.ab2d09b587db505f471e034f1781ffd2.js": "/amitrai/precache-manifest.ab2d09b587db505f471e034f1781ffd2.js",
+    "precache-manifest.430293fc4fffc57bd89b1f11f0ebc7ff.js": "/amitrai/precache-manifest.430293fc4fffc57bd89b1f11f0ebc7ff.js",
     "service-worker.js": "/amitrai/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/amitrai/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/amitrai/static/media/logo.5d5d9eef.svg"
+    "static/css/3.339887e6.chunk.css.map": "/amitrai/static/css/3.339887e6.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/amitrai/static/css/main.34de6062.chunk.css.map"
   }
 }
