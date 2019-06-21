@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/amitrai/static/css/main.2cce8147.chunk.css",
+    "main.js": "/amitrai/static/js/main.99da34b0.chunk.js",
+    "main.js.map": "/amitrai/static/js/main.99da34b0.chunk.js.map",
+    "runtime~main.js": "/amitrai/static/js/runtime~main.6aa4b398.js",
+    "runtime~main.js.map": "/amitrai/static/js/runtime~main.6aa4b398.js.map",
+    "static/js/2.34b4fde6.chunk.js": "/amitrai/static/js/2.34b4fde6.chunk.js",
+    "static/js/2.34b4fde6.chunk.js.map": "/amitrai/static/js/2.34b4fde6.chunk.js.map",
+    "index.html": "/amitrai/index.html",
+    "precache-manifest.ab2d09b587db505f471e034f1781ffd2.js": "/amitrai/precache-manifest.ab2d09b587db505f471e034f1781ffd2.js",
+    "service-worker.js": "/amitrai/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/amitrai/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/amitrai/static/media/logo.5d5d9eef.svg"
+  }
+}
